@@ -1,0 +1,23 @@
+# Fichiers sensibles
+.env
+accounts.json
+sessions/
+logs/
+.ipynb_checkpoints/
+secret.key
+valid_emails_passwords.csv
+
+# Environnements virtuels
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Fichiers générés
+__pycache__/
+*.py[cod]
+accounts_manager.py
+bios_generator.py
+genrate_emails.py

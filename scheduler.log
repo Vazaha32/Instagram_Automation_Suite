@@ -1,0 +1,3 @@
+2025-04-30 15:17:15,324 ERROR Erreur publication lenas.miles: Please install moviepy>=1.0.3 and retry
+2025-04-30 15:25:50,551 INFO https://i.instagram.com/api/v1/accounts/current_user/?edit=true
+2025-04-30 15:25:51,287 INFO lenas.miles [200] GET https://i.instagram.com/api/v1/accounts/current_user/?edit=true (269.0.0.18.75, OnePlus 6T Dev)
