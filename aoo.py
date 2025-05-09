@@ -180,3 +180,13 @@ def clear_instagram_cache():
 # Ajoutez dans la sidebar :
 if st.sidebar.button("🧹 Nettoyer le cache Instagram"):
     clear_instagram_cache()
+
+#tester un proxy manuellement
+with st.sidebar.expander("🧪 Tester un proxy manuellement"):
+    proxy_to_test = st.text_input("Proxy (format ip:port)")
+    if st.button("Tester ce proxy"):
+        from proxy_manager import test_proxy
+        if test_proxy(proxy_to_test):
+            st.success("✅ Proxy fonctionnel")
+        else:
+            st.error("❌ Proxy invalide")
