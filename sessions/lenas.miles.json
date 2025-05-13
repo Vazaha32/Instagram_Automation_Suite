@@ -1,0 +1,36 @@
+{
+    "uuids": {
+        "phone_id": "9a443e9b-dac2-4107-be17-c26490293a13",
+        "uuid": "61257a37-f2aa-4d56-96e0-ae9e78e58d18",
+        "client_session_id": "9e46c19b-64d1-47fd-97d4-4d138330c3e0",
+        "advertising_id": "00c56b80-31b1-4740-852e-aa4b509e34f1",
+        "android_device_id": "android-cdbf517d0359cc02",
+        "request_id": "ceb88859-6d45-4db2-8339-2672df9b4fc3",
+        "tray_session_id": "236fae7f-ce64-47ea-a39e-86cbedd38c3d"
+    },
+    "mid": "aCMWigABAAELRxo8h0oab4CeFfOr",
+    "ig_u_rur": null,
+    "ig_www_claim": null,
+    "authorization_data": {
+        "ds_user_id": "74056371099",
+        "sessionid": "74056371099%3Ad9YiKUcyRieDHp%3A13%3AAYd-9JBb6FYdTyMmmxwA2jtSilxn38bDAsdojettwA"
+    },
+    "cookies": {},
+    "last_login": 1747130072.9109309,
+    "device_settings": {
+        "app_version": "287.0.0.0.000",
+        "android_version": 33,
+        "android_release": "13.0.0",
+        "dpi": "480dpi",
+        "resolution": "1080x1920",
+        "manufacturer": "Xiaomi",
+        "model": "22021211RG",
+        "device_type": "phone",
+        "user_agent": "Instagram 287.0.0.0.000 Android (33/13.0.0; 480dpi; 1080x1920; Google; Galaxy S22 Ultra; raven; en_US)"
+    },
+    "user_agent": "Instagram 287.0.0.0.000 Android (33/13.0.0; 480dpi; 1080x1920; Google; Galaxy S22 Ultra; raven; en_US)",
+    "country": "US",
+    "country_code": 1,
+    "locale": "en_US",
+    "timezone_offset": -14400
+}

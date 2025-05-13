@@ -1,0 +1,36 @@
+{
+    "uuids": {
+        "phone_id": "938455e1-9628-4595-acc1-452b710ed030",
+        "uuid": "4a891da5-4e67-4f71-b916-2bcc5b51d103",
+        "client_session_id": "9ae5bd90-2f5a-4a9a-abee-9e52ba493a90",
+        "advertising_id": "81f62683-2df7-4da3-8ab1-823f2bee1ad8",
+        "android_device_id": "android-e8e1b162dfd40f06",
+        "request_id": "c36463d1-113d-4f02-a132-c599aa3b6c34",
+        "tray_session_id": "a59988bb-8c7a-4f5e-a56f-b65fb868d954"
+    },
+    "mid": "aCNF3QABAAEAolvwdv676o7eoeAw",
+    "ig_u_rur": null,
+    "ig_www_claim": null,
+    "authorization_data": {
+        "ds_user_id": "74445035363",
+        "sessionid": "74445035363%3AEKoHiU2VC42UXd%3A22%3AAYdetH0adOgMO5B7T3tCVgawsG4tHWyBAibrgQD1mw"
+    },
+    "cookies": {},
+    "last_login": 1747142187.9796388,
+    "device_settings": {
+        "app_version": "287.0.0.0.000",
+        "android_version": 33,
+        "android_release": "13.0.0",
+        "dpi": "480dpi",
+        "resolution": "1080x1920",
+        "manufacturer": "Google",
+        "model": "Pixel 7 Pro",
+        "device_type": "phone",
+        "user_agent": "Instagram 287.0.0.0.000 Android (33/13.0.0; 480dpi; 1080x1920; Samsung; Galaxy S22 Ultra; raven; en_US)"
+    },
+    "user_agent": "Instagram 287.0.0.0.000 Android (33/13.0.0; 480dpi; 1080x1920; Samsung; Galaxy S22 Ultra; raven; en_US)",
+    "country": "US",
+    "country_code": 1,
+    "locale": "en_US",
+    "timezone_offset": -14400
+}

@@ -1,0 +1,9 @@
+.venv
+.env
+scheduler.log
+accounts_manager.py
+accounts.json
+secret.key
+valid_emails_passwords.csv
+bios_generator.py
+genrate_emails.py
